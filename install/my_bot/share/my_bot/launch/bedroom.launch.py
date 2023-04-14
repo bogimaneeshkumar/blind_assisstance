@@ -1,1 +1,0 @@
-/home/maneesh/dev_ws/src/my_bot/launch/bedroom.launch.py
